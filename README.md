@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **understanding best practices in real-world React projects and clean code structure.**
 
-- 👨‍💻 All of my projects are available at [https://nimrajahangir.netlify.app/](https://nimrajahangir.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nimrajahan.netlify.app/](https://nimrajahan.netlify.app/)
 
 - 💬 Ask me about **ReactJS, ExpressJS, NodeJS, MongoDB, Firebse**
 
 - 📫 How to reach me **nimra.jahangir2001@gmail.com**
 
-- 📄 Know about my experiences [https://nimrajahangir.netlify.app/](https://nimrajahangir.netlify.app/)
+- 📄 Know about my experiences [https://nimrajahangir.netlify.app/](https://nimrajahan.netlify.app/)
 
 - ⚡ Fun fact **My best code only works after coffee and console.logs.**
 
