@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nimra.jahangir2001@gmail.com**
 
-- 📄 Know about my experiences [https://nimrajahangir.netlify.app/](https://nimrajahan.netlify.app/)
+- 📄 Know about my experiences [https://nimrajahan.netlify.app/](https://nimrajahan.netlify.app/)
 
 - ⚡ Fun fact **My best code only works after coffee and console.logs.**
 
